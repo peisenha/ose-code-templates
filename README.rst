@@ -35,6 +35,6 @@ We show how to parallelize a loop using the ``multiprocessing`` and ``mpi4py``. 
 seamlessly switch between shared and distributed memory computing.
 
 - System requirements
-    - MacOS: `Implementation of the MPI Message Passing Interface standard <http://macappstore.org/mpich2/>`_
+    - MacOS: `Implementation of the MPI Message Passing Interface standard <https://medium.com/@tmddk9966/how-to-install-mpich-in-mac-os-3cbee8e56c6f>`_
 
 
