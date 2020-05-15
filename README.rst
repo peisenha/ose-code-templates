@@ -29,9 +29,12 @@ Material
 We have just started with the templates, so our current offer is rather limited.
 
 `Parallelize an embarrassingly parallel loop <https://github.com/OpenSourceEconomics/ose-code-templates/blob/master/templates/01_embarssingly_parallel_loop/run.py>`_
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We show how to parallelize a loop using the ``multiprocessing`` and ``mpi4py``. The setup allows to
+seamlessly switch between shared and distributed memory computing.
 
 - System requirements
     - MacOS: `Implementation of the MPI Message Passing Interface standard <http://macappstore.org/mpich2/>`_
 
-We show how to parallelize a loop using the ``multiprocessing`` and ``mpi4py``. The setup allows to
-seamlessly switch between shared and distributed memory computing.
+
